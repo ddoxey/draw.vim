@@ -16,3 +16,13 @@ Use the space-bar to toggle the "pen" state between move, draw, erase.
 Navigate with the arrow keys.
 
 Other text editing functions remain the same.
+
+# Example
+
+```
+    +------+     +------+     +-------+
+    |      |     |      |     |       |     +---+
+    | DRAW +---->| TEXT +---->| BOXES +---->| . |
+    |      |     |      |     |       |     +---+
+    +------+     +------+     +-------+
+```
